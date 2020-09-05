@@ -1,4 +1,4 @@
-### Hi. I am Kirill. 👋
+### Hi. I am Kirill.
 
 <!--
 **KirillMoisyeyev/kirillmoisyeyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am the C.E.O of The Fitting Room. The Fitting Room is an apparel ecommerce platform aiming to modernize the fashion industry. At TFR, we create tools that help increase user confidence in online shopping, improve reach of brands and vendors, and energize modern sustainable practices in the fashion industry.
+We are always looking for new talent so visit us at [The Fitting Room](https://thefittingroom.tech) to learn more.
